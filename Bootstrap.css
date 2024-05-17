@@ -1,0 +1,54 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    overflow: hidden;
+    margin: 10px;
+}
+
+/*-- header--*/
+#menu a {
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(0, 0, 255);
+    
+   
+}
+
+/* SLIDER DE IMAGEN*/
+.carousel-inner {  max-height: 30rem;
+    width: 500;
+    height: 700;
+  
+}
+
+
+
+#contenedor12 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+}
+ #contenedor13{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: bold;
+    justify-content: center;
+text-align: center;
+ }
+
+ #contenedor14{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+
+ }
+
+ #contenedor15 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+ }
+
+
